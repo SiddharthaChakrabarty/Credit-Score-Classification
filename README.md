@@ -21,3 +21,9 @@ Steps to implement the project :-
 •	Then using Feature Selection (FS), a Model will be created.
 
 •	Then the model will be trained after going through the Random Forest Classifier.
+
+• The trained model will be saved into a .sav file.
+
+• Another python file will be created and the .sav file will be imported into it.
+
+• Then using the functionalities of the streamlit library of python, a responsive web-app will be created as part of the final deployment.
